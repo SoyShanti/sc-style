@@ -1,0 +1,15 @@
+{
+  "id": "lipsoul",
+  "name": "LIPSOUL",
+  "address": "Tienda 1: Conselheiro Belisário, 240; Tienda 2: Rua Oriente, 577, Brás, SP",
+  "contact": "(11) 99830-5757",
+  "website": "https://lipsoul.com",
+  "instagram": null,
+  "description": "LIPSOUL es un fabricante de moda fitness activo en el Brás desde 2011. Se distingue por ofrecer 'Moda Fitness de LUJO' directamente de fábrica.",
+  "tags": [
+    "fabricante",
+    "luxo"
+  ],
+  "image": "/assets/images/store-placeholder.jpg",
+  "trip_mode": false
+}

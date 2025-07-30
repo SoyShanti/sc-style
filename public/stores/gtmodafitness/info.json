@@ -1,0 +1,15 @@
+{
+  "id": "gtmodafitness",
+  "name": "GT Moda Fitness",
+  "address": "Rua Conselheiro Belisário, 67 - Brás, SP",
+  "contact": "(11) 94522-3218",
+  "website": "https://gtmodafitness.com",
+  "instagram": "https://www.instagram.com/gtmodafitnes",
+  "description": "GT Moda Fitness opera como una tienda online y física en el Brás, con horarios de atención definidos.",
+  "tags": [
+    "minorista",
+    "mayorista"
+  ],
+  "image": "/assets/images/store-placeholder.jpg",
+  "trip_mode": false
+}

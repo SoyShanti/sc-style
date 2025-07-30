@@ -1,0 +1,15 @@
+{
+  "id": "estacaofit",
+  "name": "Estação Fit",
+  "address": "Rua Xavantes, 484 - Loja 498, Brás, SP",
+  "contact": "(11) 2081-1448",
+  "website": "http://estacaomodafit.com.br",
+  "instagram": "https://www.instagram.com/estacaomodafit",
+  "description": "Estação Fit, fundada en 2015, se consolidó rápidamente como uno de los mayores fabricantes de moda fitness en el Brás.",
+  "tags": [
+    "fabricante",
+    "mayorista"
+  ],
+  "image": "/assets/images/store-placeholder.jpg",
+  "trip_mode": false
+}

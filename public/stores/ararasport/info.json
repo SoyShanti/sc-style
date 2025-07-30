@@ -1,0 +1,16 @@
+{
+  "id": "ararasport",
+  "name": "AraraSport",
+  "address": "Rua Barão de Ladário, 871 – Brás, SP",
+  "contact": null,
+  "website": "https://atacadista.ararasport.com.br",
+  "instagram": "https://www.instagram.com/ararasport",
+  "description": "AraraSport se posiciona como una 'Reina Fitness del Brás', un proveedor de moda fitness con aproximadamente 10 años de experiencia en el sector mayorista y minorista.",
+  "tags": [
+    "fabricante",
+    "importador",
+    "minorista"
+  ],
+  "image": "/assets/images/store-placeholder.jpg",
+  "trip_mode": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": "makelbrasil",
+  "name": "Makel Brasil",
+  "address": "Shopping Lótus - Loja Makel Brasil, R. Monsenhor Andrade, 1053, Brás, SP",
+  "contact": "(11) 95364-1763",
+  "website": "https://makelbrasil.com.br",
+  "instagram": "https://www.instagram.com/makelbrasil",
+  "description": "Makel Brasil cuenta con 20 años de experiencia en la fabricación de ropa, con confección propia para ventas al por mayor.",
+  "tags": [
+    "fabricante",
+    "mayorista"
+  ],
+  "image": "/assets/images/store-placeholder.jpg",
+  "trip_mode": false
+}
